@@ -1,0 +1,28 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0%;
+    box-shadow: 15px 15px 15px palegreen;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px palevioletred;
+}
+body{
+    background-color: paleturquoise;
+    background-image: url('DoodleAnimals.jpg')
+}
